@@ -1,5 +1,7 @@
 # Taller procesamiento de imágenes por medio de software y shaders usando Processing
 
+<p align="center">  <img src="https://minas.medellin.unal.edu.co/proyectos/estudiocarga-amva/images/imagenes/10.jpg"> </p>
+
 ![alt text](https://minas.medellin.unal.edu.co/proyectos/estudiocarga-amva/images/imagenes/10.jpg)
 
 Realizado por : 
