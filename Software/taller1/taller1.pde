@@ -16,7 +16,7 @@ void setup() {
   pg = createGraphics(470, 400);
   pg1 = createGraphics(470, 400); 
 
-  myMovie = new Movie(this, "transit.mp4");
+  myMovie = new Movie(this, "paris.mp4");
   myMovie.loop();  
   myMovie.volume(0);
 }
