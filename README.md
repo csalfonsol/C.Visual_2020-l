@@ -10,9 +10,9 @@ Realizado por :
 ### Motivación: 
 
 ### Objetivos: 
-> Realizar procesamiento de imágen y video por medio de software usando la herramienta Processing
-> Realizar procesamiento de imagen y video usando hardware (GPU)  usando glsl
-> Analizar el desempeño de las implementacione en software y hardware. 
+ * Realizar procesamiento de imágen y video por medio de software usando la herramienta Processing
+ * Realizar procesamiento de imagen y video usando hardware (_GPU_)  usando glsl
+ * Analizar el desempeño de las implementacione en software y hardware. 
 
 ### Metodología: 
 
