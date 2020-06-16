@@ -1,6 +1,6 @@
-#Colaboraciones
-#1. Procesamiento de imágenes
-#1.1. Introducción al procesamiento de imágenes
+# Colaboraciones
+# 1. Procesamiento de imágenes
+# 1.1. Introducción al procesamiento de imágenes
 Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video tanto por software como por hardware (empleando shaders):
 
 Conversión a escala de grises: promedio rgb y luma.
