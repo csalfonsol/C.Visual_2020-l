@@ -1,9 +1,11 @@
 # Taller procesamiento de imágenes por medio de software y shaders usando Processing
 
-![alt text] (https://minas.medellin.unal.edu.co/proyectos/estudiocarga-amva/images/imagenes/10.jpg)
+![alt text](https://minas.medellin.unal.edu.co/proyectos/estudiocarga-amva/images/imagenes/10.jpg)
 
 Realizado por : 
-> * 
+> * Christian Santiago Alfonso Lopez
+> * Brayan Alexander Riascos Ruíz
+> * Edinson Vega Barrera
 
 ## Motivación: 
 
