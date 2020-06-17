@@ -34,6 +34,7 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 ### Escala de grises para imagen
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/1.png"> </p>
 ### Escala de grises para video
+<img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif" width="40" height="40" />
 ![Alt Text](https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif)
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif"> </p>
 
