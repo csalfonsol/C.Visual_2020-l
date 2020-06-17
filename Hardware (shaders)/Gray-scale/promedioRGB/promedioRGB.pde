@@ -1,39 +1,33 @@
-PImage img;
-PShape original_sh, basic_sh, average_sh, luma_sh;
+PImage image;
+PShape original, average;
 
-PShader basic, average, luma;
+PShader averagergb_shader;
 
-int counter = 0, img_size = 350;
+int img_width = 600;
+int img_height = 500;
 
 void setup(){
-  size(1000, 600, P2D);
-  img = loadImage("photo.jpg"); // Load the original image
-  //img = loadImage("https://pm1.narvii.com/6737/a0189ca5eae2ccd5916b8df883ac3749cfec58d8v2_hq.jpg"); // Load the original image
-  img.resize(img_size, img_size);
   
-  original_sh = createShape(RECT, 0, 0, img_size, img_size);
-  original_sh.setTexture(img);
+  size(1200, 500, P2D);
   
-  basic_sh = createShape(RECT, img_size, 0, img_size, img_size);
-  basic_sh.setTexture(img);
+  image = loadImage("photo.jpg"); // Load the original image
+  image.resize(img_width, img_height);
   
-  average_sh = createShape(RECT, 0, img_size, img_size, img_size);
-  average_sh.setTexture(img);
+  original = createShape(RECT, 0, 0, img_width, img_height);
+  original.setTexture(image);
   
-  luma_sh = createShape(RECT, img_size, img_size, img_size, img_size);
-  luma_sh.setTexture(img);
-  
-  
-  average = loadShader("average.glsl");
+  average = createShape(RECT, img_width, 0, img_width, img_height);
+  average.setTexture(image);
+
+  averagergb_shader = loadShader("average_frag.glsl");
   
 }
 
 void draw(){
   resetShader();
-  shape(original_sh);
+  shape(original);
   
-
-  shader(average);
-  shape(average_sh);
+  shader(averagergb_shader);
+  shape(average);
   
 }
