@@ -101,6 +101,5 @@ Luma
 
 ### Conclusiones: 
 
-- Rendimiento software
-- Rendimiento hardware 
-- Rendimiento. 
+- Frente a otras herramientas en el tratamiento y análisis de image y video, estas presentar una mayor facilidad de uso, puesto que viene de forma más clara el usu de sus métodos además de que trae un númeor amplio para la manipulación de éstas. 
+- Respecto al rendimiento, como es de esperarse, cuando se usa glsl para realizar el análisis por medio de la _GPU_ el rendimiento del sistema mejora sustancialmente, pues no se recarga el procesador para ejecutar los algortimos.
