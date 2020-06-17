@@ -10,7 +10,7 @@ void setup(){
   
   size(1200, 500, P2D);
   
-  image = loadImage("photo.jpg"); // Load the original image
+  image = loadImage("photo.jpg"); 
   image.resize(img_width, img_height);
   
   original = createShape(RECT, 0, 0, img_width, img_height);
