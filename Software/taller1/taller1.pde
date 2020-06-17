@@ -12,7 +12,7 @@ char[] chars = {'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'};
 //int resolution = 5;
 
 // to determine which character to display
-int resolution = 5;
+int resolution = 1;
 
 void setup() {
   size(1150, 600);  
@@ -301,7 +301,7 @@ void botones() {
   if (!select) {
     fill(130);
     stroke(0);
-    rect(xx, yy-60, w+100, h, 10);
+    rect(xx, yy-60, w+200, h, 10);
     fill(0);
     text("Cuadros por segundo: "+frameRate, xx+6, yy+h-70);
   } else {
