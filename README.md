@@ -34,7 +34,7 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 ### Escala de grises para imagen
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/1.png"> </p>
 ### Escala de grises para video
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif" loop=infinite> </p>
 
 * Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 
@@ -44,7 +44,8 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.git"> </p>
 ### Convolución para video
 
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.git"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.gif"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.gif"> </p>
 
 * Conversión a ascii.
 ### Ascii para imagen
