@@ -32,12 +32,12 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 * Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/1.png"> </p>
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.png"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.git"> </p>
 * Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/2.png"> </p>
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.png"> </p>
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.png"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.git"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.git"> </p>
 * Conversión a ascii.
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/4.png"> </p>
 * (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
