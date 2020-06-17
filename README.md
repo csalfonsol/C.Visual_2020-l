@@ -53,7 +53,7 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 ### Ascii para imagen
 
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/8.png"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/8.gif"> </p>
 
 * (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
 
