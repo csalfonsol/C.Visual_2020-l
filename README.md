@@ -96,19 +96,13 @@ De izquierda a derecha comenzando por arriba, las imágenes corresponden a las s
     * Gaussian Blur
     * Sharpen
     * Edge
-    * Saturación
     * Saturación extra
+    * Saturación
+    
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/13.png"> </p>
 
 
 
-
-* Conversión a ascii.
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
-
-* (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
-
-* (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
 
 ### Conclusiones: 
 
