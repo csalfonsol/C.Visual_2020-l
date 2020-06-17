@@ -39,15 +39,18 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 * Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 
 ### Convolución para Imagen
+#### Convolución *bordes*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/2.png"> </p>
+#### Convolución *Rebujado*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.git"> </p>
-### Convolución para video
 
+### Convolución para video
+#### Convolución *bordes*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.gif"> </p>
+#### Convolución *Rebujado*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.gif"> </p>
 
-* Conversión a ascii.
+## Conversión a ascii.
 ### Ascii para imagen
 
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/4.png"> </p>
@@ -58,13 +61,14 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 * (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
 
-### Histograma para Imagenes
+### Histograma para Imágenes
 
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/10.png"> </p>
 * (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
+
  Apoximadamente 41 cuadros
 
-### 1. Procesamiento de imágene y video con Hardware
+### 1. Procesamiento de imágenes y video con Hardware
 
 ### 1.1. Introducción al procesamiento de imágenes
 
