@@ -1,13 +1,50 @@
-# C.Visual_2020-l
-Repositorio con los trabajos realizados para la asignatura Computación Visual en el semestre 2020 - l, con el profesor Jean Pierre Charalambos.
+<p align="center">  <img src="https://minas.medellin.unal.edu.co/proyectos/estudiocarga-amva/images/imagenes/10.jpg"> </p>
+
+## Taller procesamiento de imágenes por medio de software y shaders usando Processing
+
+Realizado por : 
+> * Christian Santiago Alfonso Lopez
+> * Brayan Alexander Riascos Ruíz
+> * Edinson Vega Barrera
+
+### Motivación: 
+
+### Objetivos: 
+ * Realizar procesamiento de imágen y video por medio de software usando la herramienta Processing
+ * Realizar procesamiento de imagen y video usando hardware (_GPU_)  usando glsl
+ * Analizar el desempeño de las implementacione en software y hardware. 
+
+### Metodología: 
+
+### Resultados:
+
+### 1. Procesamiento de imágenes con software 
+
+### 1.1. Introducción al procesamiento de imágenes
+
+> Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video tanto por software como por hardware (empleando shaders):
+
+* Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
+* Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
+* Conversión a ascii.
+* (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
+* (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
+
+Emplear dos [canvas](https://processing.org/reference/PGraphics.html), uno para desplegar la imagen/video original y el otro para el resultado del análisis.
+
+### 1. Procesamiento de imágenes con Hardware
+
+### 1.1. Introducción al procesamiento de imágenes
+
+> Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video tanto por software como por hardware (empleando shaders):
+
+* Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
+* Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
+* Conversión a ascii.
+* (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
+* (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
+
+Emplear dos [canvas](https://processing.org/reference/PGraphics.html), uno para desplegar la imagen/video original y el otro para el resultado del análisis.
 
 
-## Hardware (shaders)
-
-En esta carpeta se colocarán los sketches de Processing que ejecutan operaciones en la GPU del equipo (shaders).
-
-
-## Software
-
-En esta carpeta se colocarán los sketches de Processing que ejecutan operaciones de alto nivel (software).
-
+### Conclusiones: 
