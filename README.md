@@ -76,19 +76,20 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/11.gif"> </p>
 
-### 1. Procesamiento de imágenes y video con Hardware
-
-### 1.1. Introducción al procesamiento de imágenes
+### 2. Procesamiento de imágenes y video con Hardware
 
 > Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video por hardware (empleando shaders):
 
 * Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
 
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/11.png"> </p>
+
 * Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
+
 * Conversión a ascii.
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
+
 * (solo para imágenes) Despliegue del [histograma](https://en.wikipedia.org/wiki/Image_histogram).
 
 * (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
