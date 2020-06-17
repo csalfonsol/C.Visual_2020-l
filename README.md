@@ -72,7 +72,9 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/10.png"> </p>
 * (solo para video) Medición de la [eficiencia computacional](https://processing.org/reference/frameRate.html) para las operaciones realizadas.
 
- Apoximadamente 41 cuadros
+ ### Cuadros por segundo
+
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/11.gif"> </p>
 
 ### 1. Procesamiento de imágenes y video con Hardware
 
