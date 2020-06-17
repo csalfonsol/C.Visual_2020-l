@@ -32,30 +32,36 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 * Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
 ### Escala de grises para imagen
+
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/1.png"> </p>
+
 ### Escala de grises para video
+
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/6.gif" loop=infinite> </p>
 
-* Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
+## Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 
 ### Convolución para Imagen
 #### Convolución *bordes*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/2.png"> </p>
-#### Convolución *Rebujado*
+
+#### Convolución *Repujado*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
 
 ### Convolución para video
 #### Convolución *bordes*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.gif"> </p>
+
 #### Convolución *Rebujado*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.gif"> </p>
 
 ## Conversión a ascii.
+
 ### Ascii para imagen
 
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/4.png"> </p>
 
-### Ascii para imagen
+### Ascii para video
 
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/8.gif"> </p>
 
