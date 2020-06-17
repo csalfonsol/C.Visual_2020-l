@@ -52,7 +52,7 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 #### Convolución *bordes*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/5.gif"> </p>
 
-#### Convolución *Rebujado*
+#### Convolución *Repujado*
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/7.gif"> </p>
 
 ## Conversión a ascii.
