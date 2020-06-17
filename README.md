@@ -90,7 +90,18 @@ Luma
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/12.png"> </p>
 
 * Aplicación de algunas [máscaras de convolución](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
-<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
+De izquierda a derecha comenzando por arriba, las imágenes corresponden a las siguientes máscaras:
+
+    * Imagen original (sin máscara)
+    * Gaussian Blur
+    * Sharpen
+    * Edge
+    * Saturación
+    * Saturación extra
+<p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/13.png"> </p>
+
+
+
 
 * Conversión a ascii.
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/3.png"> </p>
