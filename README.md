@@ -80,7 +80,7 @@ Por último, como valor añadido se desea aprobar el curso "Computación Visual"
 
 > Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video por hardware (empleando shaders):
 
-* Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages).
+* Conversión a escala de grises: promedio _rgb_ y [luma](https://en.wikipedia.org/wiki/HSL_and_HSV#Disadvantages), mediante fragment_shaders.
 
 
 Promedio RGB
@@ -102,9 +102,9 @@ De izquierda a derecha comenzando por arriba, las imágenes corresponden a las s
 <p align="center">  <img src="https://github.com/csalfonsol/C.Visual_2020-l/blob/master/images/13.png"> </p>
 
 
-
-
 ### Conclusiones: 
 
-- Frente a otras herramientas en el tratamiento y análisis de image y video, estas presentar una mayor facilidad de uso, puesto que viene de forma más clara el usu de sus métodos además de que trae un númeor amplio para la manipulación de éstas. 
-- Respecto al rendimiento, como es de esperarse, cuando se usa glsl para realizar el análisis por medio de la _GPU_ el rendimiento del sistema mejora sustancialmente, pues no se recarga el procesador para ejecutar los algortimos.
+- Frente a otras herramientas en el tratamiento y análisis de imagen y video, estas presentar una mayor facilidad de uso, puesto que viene de forma más clara el usu de sus métodos además de que trae un número amplio para la manipulación de éstas. 
+- Respecto al rendimiento, como es de esperarse, cuando se usa glsl y shaders ejecutadossobre la _GPU_, el rendimiento del sistema mejora sustancialmente, pues no se recarga el procesador para ejecutar los algortimos.
+- El uso de shaders y el lenguaje glsl, proporciona varias ventajas. Una de las mas notorias y ya mencionada, es el rendimiento a la hora de procesar imágenes o videos de mayor resolución. Otra de las ventajas es que presenta un nivel de modularidad en donde podemos interactuar con glsl independientemente del lenguaje de alto nivel que estemos usando. Y por último, la extensión del código tiende a reducirse considerablemente.
+- Encontramos que la herramienta Processing ofrece un sin fin de posibilidades, de las cuales exploramos muy poco debido al poco tiempo. Sin embargo, se puede entre ver, que esta herramienta y en general la computación visual ha tenido tantas aplicaciones y por ende, un crecimiento notable.
